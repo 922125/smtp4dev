@@ -9,5 +9,6 @@
   ],
   "npm.includeDirectories": [
     "Rnwood.Smtp4dev/ClientApp"
-  ]
+  ],
+  "terminal.integrated.sendKeybindingsToShell": true
 }
